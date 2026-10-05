@@ -1,0 +1,10 @@
+---
+# vars file for lamp
+packages:
+  - nginx
+  - isc-dhcp-server
+
+services:
+  - nginx 
+  - isc-dhcp-server 
+  
